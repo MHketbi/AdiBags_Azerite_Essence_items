@@ -147,8 +147,8 @@ local function Tooltip_Init()
 end
 
 local setFilter = AdiBags:RegisterFilter("Azerite Essence Items", 98, "ABEvent-1.0")
-setFilter.uiName = L["Azerite Essence Items"]
-setFilter.uiDesc = L["Items that are connected to Azerite Essence."]
+setFilter.uiName = "Azerite Essence Items"
+setFilter.uiDesc = "Items that are connected to Azerite Essence."
 
 function setFilter:OnInitialize()
     self.db = AdiBags.db:RegisterNamespace("Azerite Essence Items", {
@@ -175,7 +175,7 @@ end
 function setFilter:Filter(slotData)
 	MatchIDs = MatchIDs or MatchIDs_Init(self)
 	if MatchIDs[slotData.itemId] then
-		return L["Azerite Essence Items"]
+		return "Azerite Essence Items"
 	end
 	
 	Tooltip = Tooltip or Tooltip_Init()
@@ -194,14 +194,14 @@ end
 function setFilter:GetOptions()
 	return {
 		moveCollectable = {
-			name = L["Collectable Items"],
-			desc = L["Items collected and combined to be upgrade item"],
+			name = "Collectable Items",
+			desc = "Items collected and combined to be upgrade item",
 			type = "toggle",
 			order = 10
 		},
 		moveUpgrade = {
-			name = L["BAzerite Essence Items"],
-			desc = L["Items used to unlock and upgrade Azerite Essence Items"],
+			name = "Azerite Essence Items",
+			desc = "Items used to unlock and upgrade Azerite Essence Items",
 			type = "toggle",
 			order = 20
 		}
