@@ -62,7 +62,6 @@ local upgradeItems = {
 	168621, --Magnifying Lens of the Focusing Iris
 	168622, --Stabilizing Lens of the Focusing Iris
 	168623, --Biconcavic Lens of the Focusing Iris
-	168650, --Time-Lost Battlefield Memento
 	168651, --Enduring Battlefield Memento
 	168652, --Stalwart Battlefield Memento
 	168653, --Glinting Battlefield Memento
@@ -79,6 +78,7 @@ local upgradeItems = {
 	168847, --Pearl of Manifest Ambitions
 	168848, --Pearl of Perspicuous Intentions
 	168849, --Pearl of Luminous Designs
+	168850, --Time-Lost Battlefield Memento
 	168854, --Animated Elemental Heart
 	168855, --Pulsing Elemental Heart
 	168856, --Resonating Elemental Heart
