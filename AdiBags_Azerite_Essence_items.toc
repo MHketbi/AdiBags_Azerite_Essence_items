@@ -1,9 +1,9 @@
 ## Interface: 80200
 ## Title: |cff00ff00AdiBags - Azerite Essence items|r
-## Version: |cffFF4500v1.0|r
+## Version: |cffFF4500v1.0.1|r
 ## Author: mandus
 ## Notes: Adds various Azerite Essence items to AdiBags item filters.
-## X-Date: 08/05/2019
+## X-Date: 08/11/2019
 ## X-Category: Bags & Inventory
 ## Dependencies: AdiBags
 

@@ -1,6 +1,6 @@
 # How to Read this
 All items are broken down into categories, with itemID followed by the Item name.
-Latest version: v1.0
+Latest version: v1.0.1
 
 ## Collectable Items
 Items collected and combined to be upgrade item.

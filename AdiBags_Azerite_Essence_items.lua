@@ -1,7 +1,7 @@
 --[[
 AdiBags - Azerite Essence items
 by Mandus
-version: v1.0
+version: v1.0.1
 Add various Azerite Essence items to AdiBags filter groups
 ]]
 
