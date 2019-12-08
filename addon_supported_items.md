@@ -1,6 +1,6 @@
 # How to Read this
 All items are broken down into categories, with itemID followed by the Item name.
-Latest version: v1.0.1
+Latest version: v1.0
 
 ## Collectable Items
 Items collected and combined to be upgrade item.
@@ -46,9 +46,6 @@ Items used at the forget to acquire or upgrade azerite essence.
 * 168621 Magnifying Lens of the Focusing Iris
 * 168622 Stabilizing Lens of the Focusing Iris
 * 168623 Biconcavic Lens of the Focusing Iris
-* 168651 Enduring Battlefield Memento
-* 168652 Stalwart Battlefield Memento
-* 168653 Glinting Battlefield Memento
 * 168814 Animated Blood of the Decimated 
 * 168837 Depth Forged Aegis
 * 168838 Enduring Bulwark of the Depths
@@ -63,6 +60,9 @@ Items used at the forget to acquire or upgrade azerite essence.
 * 168848 Pearl of Perspicuous Intentions
 * 168849 Pearl of Luminous Designs
 * 168850 Time-Lost Battlefield Memento
+* 168851 Enduring Battlefield Memento
+* 168852 Stalwart Battlefield Memento
+* 168853 Glinting Battlefield Memento
 * 168854 Animated Elemental Heart
 * 168855 Pulsing Elemental Heart
 * 168856 Resonating Elemental Heart

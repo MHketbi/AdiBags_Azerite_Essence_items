@@ -1,7 +1,7 @@
 --[[
 AdiBags - Azerite Essence items
 by Mandus
-version: v1.0.1
+version: v1.0
 Add various Azerite Essence items to AdiBags filter groups
 ]]
 
@@ -62,9 +62,6 @@ local upgradeItems = {
 	168621, --Magnifying Lens of the Focusing Iris
 	168622, --Stabilizing Lens of the Focusing Iris
 	168623, --Biconcavic Lens of the Focusing Iris
-	168651, --Enduring Battlefield Memento
-	168652, --Stalwart Battlefield Memento
-	168653, --Glinting Battlefield Memento
 	168814, --Animated Blood of the Decimated 
 	168837, --Depth Forged Aegis
 	168838, --Enduring Bulwark of the Depths
@@ -79,6 +76,9 @@ local upgradeItems = {
 	168848, --Pearl of Perspicuous Intentions
 	168849, --Pearl of Luminous Designs
 	168850, --Time-Lost Battlefield Memento
+	168851, --Enduring Battlefield Memento
+	168852, --Stalwart Battlefield Memento
+	168853, --Glinting Battlefield Memento
 	168854, --Animated Elemental Heart
 	168855, --Pulsing Elemental Heart
 	168856, --Resonating Elemental Heart
@@ -200,7 +200,7 @@ function setFilter:GetOptions()
 			order = 10
 		},
 		moveUpgrade = {
-			name = "Azerite Essence Items",
+			name = "BAzerite Essence Items",
 			desc = "Items used to unlock and upgrade Azerite Essence Items",
 			type = "toggle",
 			order = 20
