@@ -1,6 +1,6 @@
 # How to Read this
 All items are broken down into categories, with itemID followed by the Item name.
-Latest version: v1.0
+Latest version: v2.0
 
 ## Collectable Items
 Items collected and combined to be upgrade item.
@@ -11,6 +11,9 @@ Items collected and combined to be upgrade item.
 * 169774 Progression Sprocket
 * 169694 Aqueous Reliquary
 * 169491 Focused Life Anima
+* 174279 Encrypted Ny'alothan Text
+* 174287 Sparks of Unwavering Strength
+* 174288 Breath of Everlasting Spirit
 
 ## Upgrade Items
 Items used at the forget to acquire or upgrade azerite essence.
@@ -99,4 +102,31 @@ Items used at the forget to acquire or upgrade azerite essence.
 * 169900 Rib-Bone Choker of Dominance
 * 169901 Etched Bone Trophy of the Vanquished
 * 169902 Finger-Bone Trophy of Battle
-
+* 173883 Replicating Void Droplets
+* 173884 Burgeoning Void Droplet
+* 173885 Volatile Void Droplet
+* 173886 Bursting Void Droplet
+* 173308 Mark of Boistrous Duty
+* 173309 Water Dancer's Technique
+* 173310 Manual of Unbalanced Tactics
+* 173311 Resplendent Warden's Badge
+* 168573 Death-Resistant Leaf
+* 168574 Petrified Living Bark
+* 168575 Branch of Rejuvenating Rings
+* 168576 Roots of Magnificent Revival
+* 173288 Overflowing Azerite Geode
+* 173289 Pulsing Azerite Geode
+* 173290 Quickening Azerite Geode
+* 173291 Luminous Azerite Geode
+* 173280 Token of Death's Door
+* 173281 Token of Death's Mark
+* 173282 Token of Death's Glee
+* 173283 Token of a Brilliant Death
+* 168936 Ward of Unwavering Hope
+* 168937 Ward of Reciprocation
+* 168938 Ward of Mutual Aid
+* 168940 Ward of Unimaginable Brilliance
+* 168436 Focused Star Point
+* 168439 Swirling Star Dust
+* 168440 Gleaming Star Shard
+* 168816 Pulsing Star Heart
