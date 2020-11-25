@@ -1,7 +1,7 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: AdiBags - Azerite Essence items
 ## Version: 2.0
-## Author: mandus
+## Author: Mandeos
 ## Notes: Adds various Azerite Essence items to AdiBags item filters.
 ## X-Date: 15/01/2020
 ## X-Category: Bags & Inventory
